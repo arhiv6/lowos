@@ -1,2 +1,2 @@
-# lowos
-Very simple round-robin process scheduler, uses setjmp/longjmp functions.
+# lowOS
+Very simple round-robin tasks scheduler, uses setjmp/longjmp functions.
